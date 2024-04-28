@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/-Instagram-172F45?style=flat-square&labelColor=172F45&logo=instagram&logoColor=white&link=https://www.instagram.com/samilis_brito/" alt="Instagram"/></a>
 </p>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fantasia&color=5479A5&pause=2000&center=true&vCenter=true&width=1000&lines=Olá,+como+já+deve+ter+percebido,+meu+nome+é+Samilis+Brito;tenho+24+anos;sou+uma+pessoa+visual+...;por+isso+me+aventuro+pelo+mundo+front-end👩🏽‍🎨;👽🤩+)](https://git.io/typing-svg)
 
 ## 👋😄Seja bem-vindo(a) ao meu portfólio no GitHub. <img src="https://cdn.discordapp.com/attachments/1233929809940185139/1233939712683806720/Frame_6__1_-removebg-preview.png?ex=662eeb68&is=662d99e8&hm=56a6fdf243c2db38b3666a3a57cc6bbb47ba2f61b00258f08a88884671035253&" alt="ilustração de um computador" min-width="150px" max-width="150px" width="150px" align="right">
 
