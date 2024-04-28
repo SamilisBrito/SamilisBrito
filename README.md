@@ -39,7 +39,7 @@
 
 ## 👩🏽‍🏫Estatísticas:
 <div align="center">
-  <img width=40% src="https://github-readme-stats.vercel.app/api?username=SamilisBrito&count_private=true&show_icons=true&theme=prussian&rank_icon=github&border_radius=10&locale=pt-br" alt="readme stats" />
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamilisBrito&layout=compact&langs_count=7&theme=prussian&locale=pt-br"/>
-  <img width="40%" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=SamilisBrito&amp;theme=prussian&locale=pt-br"/>
+  <img width=45% src="https://github-readme-stats.vercel.app/api?username=SamilisBrito&count_private=true&show_icons=true&theme=prussian&rank_icon=github&border_radius=10&locale=pt-br" alt="readme stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamilisBrito&layout=compact&langs_count=7&theme=prussian&locale=pt-br"/>
+  <img width="45%" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=SamilisBrito&amp;theme=prussian&locale=pt-br"/>
 </div>
