@@ -29,6 +29,7 @@
   <img height="48px" width="48px" alt="Icone JavaScript" src="https://skillicons.dev/icons?i=js"/>
   <img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>
   <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>
+  <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=tailwind"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
   <img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
   <img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>
