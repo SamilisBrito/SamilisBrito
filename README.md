@@ -16,10 +16,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fantasia&color=5479A5&pause=2000&center=true&vCenter=true&width=1000&lines=Olá,+como+já+deve+ter+percebido,+meu+nome+é+Samilis+Brito;tenho+24+anos;sou+uma+pessoa+visual+...;por+isso+me+aventuro+pelo+mundo+front-end👩🏽‍🎨;👽🤩+)](https://git.io/typing-svg)
 
-## 👋😄Seja bem-vindo(a) ao meu portfólio no GitHub. <img src="https://cdn.discordapp.com/attachments/1233929809940185139/1233939712683806720/Frame_6__1_-removebg-preview.png?ex=662eeb68&is=662d99e8&hm=56a6fdf243c2db38b3666a3a57cc6bbb47ba2f61b00258f08a88884671035253&" alt="ilustração de um computador" min-width="150px" max-width="150px" width="150px" align="right">
+## 👋😄Seja bem-vindo(a) ao meu portfólio no GitHub. <img src="https://cdn.discordapp.com/attachments/1233929809940185139/1233934117188407427/Frame_6-removebg-preview.png?ex=67a2ad32&is=67a15bb2&hm=42dddf2b61dfc89d8e1eb9832139d67eef7508eb36e40e475086018f9f2ac2fc&" alt="ilustração de um E.T" min-width="150px" max-width="150px" width="150px" align="right">
 
 - 👩🏽‍🎨 ~Apaixonada por colorir botões~ Desenvolvedora Front-end
-- 👩🏽‍🎓 Cursando a trilha de desenvolvimento full stack junior da +praTI
+- 👩🏽‍🎓 Desenvolvedora FullStack na 	<a href="https://www.trindtech.com.br/">Trindtech</a>
+ 
 - 👩🏽 Pronomes: ela/dela
 
 <br/>
